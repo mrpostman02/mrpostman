@@ -1,6 +1,8 @@
 ## Statistics
 ![Trophy Card](https://github-profile-trophy.vercel.app/?username=mrpostman02)
+<center>
 <img align="center" alt="GIF" src="https://github.com/mrpostman02/mrpostman02/blob/main/coding.gif?raw=true" width="408" height="318" />
+ </center>
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)

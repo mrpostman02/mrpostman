@@ -6,7 +6,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Python](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
-![Python](https://img.shields.io/badge/-VueJS-dark?style=flat-square&logo=VueJS)
+![Python](https://img.shields.io/badge/-Vue-dark?style=flat-square&logo=Vue)
 ![Python](https://img.shields.io/badge/-Vuetify-dark?style=flat-square&logo=Vuetify)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

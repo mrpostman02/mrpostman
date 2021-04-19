@@ -14,4 +14,4 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Stats](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/overview.svg)
+![Stats](https://raw.githubusercontent.com/mrpostman02/github-stats-transparent/output/generated/overview.svg)

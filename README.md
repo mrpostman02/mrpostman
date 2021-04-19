@@ -1,5 +1,5 @@
 # mrpostman
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mrpostman02&repo=mrpostman)
+![ReadMe Card](https://github-profile-trophy.vercel.app/?username=mrpostman02)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrpostman02)](https://github.com/ryo-ma/github-profile-trophy)
 
